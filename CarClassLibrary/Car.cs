@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarClassLibrary
 {
-    class Car
+    public class Car
     {
         // Properties
 
